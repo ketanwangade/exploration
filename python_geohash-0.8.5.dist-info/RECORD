@@ -1,0 +1,16 @@
+__pycache__/geohash.cpython-310.pyc,,
+__pycache__/jpgrid.cpython-310.pyc,,
+__pycache__/jpiarea.cpython-310.pyc,,
+__pycache__/quadtree.cpython-310.pyc,,
+_geohash.cp310-win_amd64.pyd,sha256=PdcQVUTfqPYFGb45iiIGqmTVeSBbpqlkIZuYlFjHlZQ,21504
+geohash.py,sha256=JL8ezvvRPqjuRN0CTpkkHtNf9Z2p6ybrfe15tWfLEWQ,16389
+jpgrid.py,sha256=fj5Q8oCLokLSv5DUd4142qTRkaV1hed7Pj8xh29tj14,3961
+jpiarea.py,sha256=qP5g3aL8pWT_lbFcgTAKmmN-QrkneGqyGSkhjj4Vj6g,2436
+python_geohash-0.8.5.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+python_geohash-0.8.5.dist-info/METADATA,sha256=nhqCwV4ep_ybb1FSeMTbe_BmAmowfQX6q6pgzZcIpy8,227
+python_geohash-0.8.5.dist-info/RECORD,,
+python_geohash-0.8.5.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+python_geohash-0.8.5.dist-info/WHEEL,sha256=XLhL6_LGbcSb6E23Xy6hQ7SBsl9Luvz0KHWMAPovEWA,102
+python_geohash-0.8.5.dist-info/direct_url.json,sha256=87np3Zr6GSAvvfxroFMniq3Z5T83WaDLrTvknpJCiew,105
+python_geohash-0.8.5.dist-info/top_level.txt,sha256=rENHxyvjpwkQAvPvVXCKloPkH3xf5qSuDvGZoOwHqoQ,41
+quadtree.py,sha256=ncQHR4F-5wjZ9O9cq-Sd3AyV2r0MGFObRKaJIUINEOI,3112
